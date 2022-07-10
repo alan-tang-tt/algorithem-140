@@ -84,6 +84,18 @@
  1. https://leetcode.cn/problems/insert-delete-getrandom-o1/
  1. https://leetcode.cn/problems/random-pick-with-weight/
  1. https://leetcode.cn/problems/shuffle-an-array/
+ 1. https://leetcode.cn/problems/fizz-buzz/
+ 1. https://leetcode.cn/problems/design-linked-list/
+
+## 第四章 搜索与图论
+ 
+ 1. https://leetcode.cn/problems/maximum-depth-of-binary-tree/
+ 1. https://leetcode.cn/problems/find-if-path-exists-in-graph/
+ 1. https://leetcode.cn/problems/climbing-stairs/
+ 1. https://leetcode.cn/problems/n-queens/
+ 1. https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/
+ 1. https://leetcode.cn/problems/binary-tree-paths/
+ 1. https://leetcode.cn/problems/minimum-depth-of-binary-tree/
 
  
  
