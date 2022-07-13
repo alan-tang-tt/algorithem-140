@@ -96,6 +96,11 @@
  1. https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/
  1. https://leetcode.cn/problems/binary-tree-paths/
  1. https://leetcode.cn/problems/minimum-depth-of-binary-tree/
+ 1. https://leetcode.cn/problems/word-break/
+ 1. https://leetcode.cn/problems/word-break-ii/
+ 1. 最接近目标值的子序列和：https://leetcode.cn/problems/closest-subsequence-sum/
+
+
 
  
  
