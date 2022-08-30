@@ -98,6 +98,32 @@
  1. 139\. 单词拆分：https://leetcode.cn/problems/word-break/
  1. 140\. 单词拆分 II：https://leetcode.cn/problems/word-break-ii/
  1. 1755\. 最接近目标值的子序列和：https://leetcode.cn/problems/closest-subsequence-sum/
+ 1. 1559\. 二维网格图中探测环：https://leetcode.cn/problems/detect-cycles-in-2d-grid/
+ 1. 79\. 单词搜索：https://leetcode.cn/problems/word-search/
+ 1. 111\. 二叉树的最小深度：https://leetcode.cn/problems/minimum-depth-of-binary-tree/
+ 1. 1971\. 寻找图中是否存在路径：https://leetcode.cn/problems/find-if-path-exists-in-graph/
+ 1. 104\. 二叉树的最大深度：https://leetcode.cn/problems/maximum-depth-of-binary-tree/
+ 1. 797\. 所有可能的路径：https://leetcode.cn/problems/all-paths-from-source-to-target/
+ 1. 1765\. 地图中的最高点：https://leetcode.cn/problems/map-of-highest-peak/
+ 1. 2192\. 有向无环图中一个节点的所有祖先：https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
+ 1. 207\. 课程表：https://leetcode.cn/problems/course-schedule/
+ 1. 310\. 最小高度树：https://leetcode.cn/problems/minimum-height-trees/
+ 1. 127\. 单词接龙：https://leetcode.cn/problems/word-ladder/
+ 1. 101\. 对称二叉树：https://leetcode.cn/problems/symmetric-tree/
+ 1. 103\. 二叉树的锯齿形层序遍历：https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/
+ 1. 301\. 删除无效的括号：https://leetcode.cn/problems/remove-invalid-parentheses/
+ 1. 743\. 网络延迟时间： https://leetcode.cn/problems/network-delay-time/
+ 1. 675\. 为高尔夫比赛砍树：https://leetcode.cn/problems/cut-off-trees-for-golf-event/
+ 1. 787\. K 站中转内最便宜的航班：https://leetcode.cn/problems/cheapest-flights-within-k-stops/
+ 1. 1584\. 连接所有点的最小费用：https://leetcode.cn/problems/min-cost-to-connect-all-points/
+ 1. 332\. 重新安排行程：https://leetcode.cn/problems/reconstruct-itinerary/
+ 1. 2097\. 合法重新排列数对：https://leetcode.cn/problems/valid-arrangement-of-pairs/
+
+
+
+
+
+
 
 
 
