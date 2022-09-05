@@ -119,6 +119,8 @@
  1. 332\. 重新安排行程：https://leetcode.cn/problems/reconstruct-itinerary/
  1. 2097\. 合法重新排列数对：https://leetcode.cn/problems/valid-arrangement-of-pairs/
  1. 785\. 判断二分图：https://leetcode.cn/problems/is-graph-bipartite/
+ 1. 652\. 寻找重复的子树：https://leetcode.cn/problems/find-duplicate-subtrees/
+
 
 
 
