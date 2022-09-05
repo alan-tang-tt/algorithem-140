@@ -118,6 +118,7 @@
  1. 1584\. 连接所有点的最小费用：https://leetcode.cn/problems/min-cost-to-connect-all-points/
  1. 332\. 重新安排行程：https://leetcode.cn/problems/reconstruct-itinerary/
  1. 2097\. 合法重新排列数对：https://leetcode.cn/problems/valid-arrangement-of-pairs/
+ 1. 785\. 判断二分图：https://leetcode.cn/problems/is-graph-bipartite/
 
 
 
