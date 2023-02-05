@@ -128,7 +128,7 @@
  1. 307\. 区域和检索 - 数组可修改：https://leetcode.cn/problems/range-sum-query-mutable/
  1. 8\. 字符串转换整数 (atoi)：https://leetcode.cn/problems/string-to-integer-atoi/
  1. 剑指 Offer 20\. 表示数值的字符串：https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/
- 1. 1020\. 飞地的数量https://leetcode.cn/problems/number-of-enclaves/
+ 1. 1020\. 飞地的数量：https://leetcode.cn/problems/number-of-enclaves/
 
 
 
